@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+  img {
+    width: 20%;
+  }
+}
+
+#logo {
+  ul {
+    list-style-type: none;
+  }
+  padding: 2em;
+  text-align: center;
+}
